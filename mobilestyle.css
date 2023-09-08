@@ -1,0 +1,305 @@
+@media screen and (max-width:700px) {
+    #page>video {
+        width: 99%;
+    }
+
+    .page-bottom>img {
+        width: 200%;
+    }
+
+    /* PAGE:3 */
+    #page3 {
+        height: 75vh;
+    }
+
+    .page3-upper {
+        width: 75%;
+    }
+
+    #page3>img {
+        top: 38%;
+    }
+
+    #page3>button {
+        position: relative;
+        top: 74%;
+    }
+
+    #page3-upper-inner {
+        left: 10%;
+    }
+
+    #page3>img {
+        width: 82%;
+        transform: translate(-50%, 0%);
+    }
+
+    #page5 {
+        height: 79vh;
+        width: 100%;
+        flex-direction: column;
+    }
+
+    #left5 {
+        width: 100%;
+        height: 30%;
+    }
+
+    #left5>h1 {
+        font-size: 10.5vw;
+    }
+
+    #right5 {
+        width: 100%;
+        height: 51%;
+        align-items: center;
+    }
+
+    #right5>h3 {
+        font-size: 5vw;
+    }
+
+    #right5>button {
+        font-size: 5vw;
+        margin-top: 40px
+    }
+
+    #page6 {
+        height: 92vh;
+        gap: 30px;
+    }
+
+    #page6>h3 {
+        font-size: 8vw;
+    }
+
+    #page6>h1 {
+        font-size: 11vw;
+    }
+
+    #page6>p {
+        width: 96%;
+        font-size: 6.2vw;
+    }
+
+    #page14 {
+        flex-direction: column;
+    }
+
+    #left14 {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    #right14 {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    #page16>h2 {
+        width: 93%;
+        text-align: center;
+    }
+
+    #page16>img {
+        width: 130%;
+        height: 49%;
+        position: relative;
+        top: 5%;
+    }
+
+    #page16>button {
+        top: 81%;
+        font-size: 4.5vw;
+    }
+
+    #page17>h4 {
+        font-size: 8vw;
+        top: 15%;
+    }
+
+    #page17>h1 {
+        font-size: 10vw;
+        top: 23%;
+        text-align: center;
+    }
+
+    #page17>p {
+        font-size: 5.5vw;
+        top: 38%;
+        width: 95%;
+        text-align: center;
+    }
+
+    #page18 {
+        display: none;
+    }
+
+    #page19 {
+        height: 70vh;
+    }
+
+    #page19>h1 {
+        width: 92%;
+    }
+
+    #page19>h5 {
+        margin-top: 67px;
+        width: 80%;
+        font-weight: 400;
+        font-size: 6vw;
+    }
+
+    #page20 {
+        display: flex;
+        flex-direction: column;
+        background: black;
+        height: 120vh;
+    }
+
+    #page20>video {
+        height: 65%;
+    }
+
+    #center-page20 {
+        top: 72%;
+        width: 95%;
+        left: 3%;
+    }
+
+    #center-page20>p {
+        width: 88%;
+        font-size: 4vw;
+    }
+
+    #page21>#troff,
+    #page22>#snroff,
+    #page23>img {
+        width: 90%;
+    }
+
+    #page21>#tron,
+    #page22>#snron {
+        width: 90%;
+    }
+
+    #page21>#center-page-21,
+    #page22>#center-page-22,
+    #page23>#center-page-23 {
+        top: 69%;
+        width: 85%;
+    }
+
+    #page21>#center-page-21>h1,
+    #page22>#center-page-22>h1,
+    #page23>#center-page-23>h1 {
+        font-size: 9vw;
+    }
+
+    #page21>#center-page-21>p,
+    #page22>#center-page-22>p,
+    #page23>#center-page-23>p {
+        font-size: 6vw;
+    }
+
+    #page24 {
+        background-color: white;
+    }
+
+    #page24>img {
+        top: 10%;
+    }
+
+    #center-page-24 {
+        top: 23%;
+        width: 94%
+    }
+
+    #page24>#center-page-24>h3 {
+        font-size: 8vw;
+
+    }
+
+    #page24>#center-page-24>h1 {
+        font-size: 11vw;
+
+    }
+
+    #page24>#center-page-24>p {
+        font-size: 5vw;
+
+    }
+
+    #page24>#center-page-24>button {
+        width: 89%;
+        font-size: 6vw;
+    }
+
+    #page25 {
+        background-color: white;
+    }
+
+    #page25>#center-page-25 {
+        flex-direction: column;
+        width: 99%;
+        left: -8%;
+    }
+
+    #page25left {
+        width: 100%;
+        align-items: center;
+    }
+
+    #page25left>img {
+        width: 20%;
+        position: relative;
+        left: -10%;
+        margin-bottom: 19px
+    }
+
+    #page25left>h1 {
+        font-size: 32px;
+        line-height: 1.125;
+        font-weight: 600;
+        letter-spacing: .004em;
+    }
+
+    #page25left>h2 {
+        color: #86868b;
+        font-size: 21px;
+        line-height: 1.1904761905;
+        font-weight: 600;
+        letter-spacing: .011em;
+        font-family: SF Pro Display, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif
+    }
+
+    #page25right {
+        width: 100%;
+    }
+
+    #page26 {
+        background-color: white;
+        padding: 20px;
+    }
+
+    #page26>#center-page-26 {
+        padding: 20px;
+        width: 100%;
+        margin: 0%;
+        padding: 0;
+        gap: 26px;
+    }
+
+    #page26>#center-page-26>img {
+        width: 40%;
+    }
+
+    #page26>#center-page-26>h1 {
+        font-size: 27px;
+    }
+    #footer{
+        height: 90vh;
+    }
+
+
+}
